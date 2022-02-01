@@ -1,0 +1,5 @@
+Tout d'abord on "return" une "list" ce qui nous permetra de placer des elements
+donc des chiffre entre crochet. Par la suite on mets la function "range" ce qui 
+nous permetra effectuer une action un certain nombre de fois. Ensuite on commence
+a compter a partir de 1 dans ce cas la et on veut compter de 1 en 1 donc on fait 
+(1, n+1)
