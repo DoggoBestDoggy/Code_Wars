@@ -1,0 +1,2 @@
+Afin d'entrer entièrement dans la norme demandé, il suffit de mettre une condition,
+lorsque 1 coté sera supérieur au deux autres coté alors cela sera faux sinon cela sera vrai.
