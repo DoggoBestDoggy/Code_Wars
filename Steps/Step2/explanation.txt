@@ -1,3 +1,0 @@
-Pour commencer nous avons configurer le litres en y insérant le calcul,
-le time définie en paramètre lors de l'exécution, // afin de supprimer les décimal se trouvant après le time,
-et pour finir la division par 2 afin de correspondre au sujet (1 time = 0.5 litre)

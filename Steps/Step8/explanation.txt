@@ -1,6 +1,0 @@
-On crée d'abord un "dictionnaire" que l'on nomme "RNE" ( je l'ai nommer "RNE" pour Roman Numerals Encoder)
-et on mets les numeros (ex : 1) et leurs chiffres Romain (ex : I).
-On "result" ensuite la variable. Ensuite pour le "num" dans le "dictionnaire" 
-et le reste "r" dans "RNE". on prend le quotien "q" et le nombre "n" = divmod "n" et "num",
-on utilise "divmod" car il prend 2 nombre et en renvoie une paire composé du quotient et du reste.
-On "result" += au "reste" et au "quotient" et pour finir on "return" "result".

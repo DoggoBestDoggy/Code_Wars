@@ -1,3 +1,0 @@
-Afin de réussir la step nous avons configuré les opérateurs : +, -, *, /.
-A chaque fois que nous avons configurer les opérateurs nous retournons la valeur 1 ensuite,
-l'opérateur selon la condition indiqué dans le if ou elif et pour finir la valeur 2.

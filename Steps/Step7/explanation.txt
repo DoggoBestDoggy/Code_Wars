@@ -1,4 +1,0 @@
-Pour "i" ( donc le nombre) dans la fonction "range" ( on utilise la fonction range car on doit effectuer
-plusieurs actions ). La variable "arr" dans fonction "len" servira à contenir plusieurs
-valeur. On ajoute -1 dans la fonction pour ne pas dépasser la valeur max. Si "i" est supérieure
-a "i+1" alors ca "return False" puis "return True". 
