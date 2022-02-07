@@ -1,6 +1,10 @@
 Pour commmencer nous configurons le res afin qu'il soit vide
 par la suite nous parcourons la liste du nombre et prenons en compte la taille de celui-ci
-de 0 à sa limite max ici 3, ensuite nous réutilisons res, nous indiquons res de nouveau afin de prendre le résultat précédemment obtenue
-ensuite nous l'additionnons avec le résultat que nous allons obtenir, str est là pour string le résulat afin de le stocker
-et le int est là afin d'annuler le str, pour le transformer en nombre afin d'utiliser sa position et de le convertir en nombre
-pour utiliser la puissance au carré, ensuite nous stockons le résultat pour le réutiliser pour le prochains chiffre.
+de 0 à sa limite max ici 3, ensuite nous réutilisons res, nous indiquons res de nouveau 
+afin de prendre le résultat précédemment obtenue, 
+ensuite nous l'additionnons avec le résultat que nous allons obtenir, 
+str est là pour string le résulat afin de le stocker
+et le int est là afin d'annuler le str, pour le transformer en nombre afin d'utiliser sa position 
+et de le convertir en nombre
+pour utiliser la puissance au carré, 
+ensuite nous stockons le résultat pour le réutiliser pour le prochains chiffre.
