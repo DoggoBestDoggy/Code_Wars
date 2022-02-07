@@ -1,0 +1,5 @@
+Pour commencé nous avons recencé les voyelles que nous ne devons pas affiché en minuscule, 
+ensuite nous avons indiqué le start nommé word qui est vide,
+par la suite tant que le nombre n'est pas entièrement analysé nous exécutons la fonction
+et alors si les lettres ne se trouve pas dans la liste blacklist avec for i in character 
+ou for not i in character alors nous affichons la lettre jusqu'à la fin du mot
