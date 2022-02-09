@@ -18,8 +18,5 @@ def score(dice):
             elif key == 5:
                 result += 50
             value-=1
-            
-        else:
-                value = 0
                 
     return result
