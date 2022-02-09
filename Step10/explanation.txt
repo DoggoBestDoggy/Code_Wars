@@ -1,0 +1,9 @@
+Par défaut on dit que "result" est de 0. On creer une variable ListCount ou pour "i" dans "Dice",
+la valeur de "ListCount" = a la valeur de "Dice.count". Pour "key" donc le chiffre et "value" donc
+Le nombre de fois où le chiffre apparaît est donc pour cela que nous utilisons "ListCount.items".
+Tant que la valeur est égale à 0, si la "value" est supérieure ou égale à 3 et si "key" est supérieure
+à 1 alors le "result" est plus ou égale a "key" est multiplié par 100. D'autre, le "result" plus ou
+égale à 1000 et la "value" est moins égale à 2. Sinon si "key" est égale à 1 alors "result" est plus
+ou égale à 100. Sinon si "key" est égale à 5 alors "result" est plus ou égale à 50 et la "value" égale
+ou moins à 1. On finit par return "result".
+
