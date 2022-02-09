@@ -1,0 +1,4 @@
+Pour commencer nous configurons le j à 2, afin que cela nous soit utiles par la suite
+ensuite nous réalisons une boucle, qui ne cessera de continuer jusqu'à que la taille du tableau attendu
+soit attente, dès le début on retire 3 élements de la liste car ils sont déjà présent de base
+j+=1 est l'incrémentation, pour finir on return la liste qu'elle soit nul ou non
